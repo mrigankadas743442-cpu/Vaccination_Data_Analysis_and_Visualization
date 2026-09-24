@@ -185,7 +185,7 @@ The normalized vaccination database was connected to Power BI to verify and visu
 
 The model contains separate tables for countries, years, diseases, vaccines, vaccination coverage, disease incidence, reported cases, vaccine introduction, and vaccine schedules.
 
-![SQL Database Relationship Model](sql_relationship_model.png)
+![SQL Database Relationship Model](assests/sql_relationship_model.jpg)
 
 ## 📊 Power BI Dashboard
 
