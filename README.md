@@ -193,27 +193,27 @@ Power BI was connected to the cleaned and normalized SQL database to create inte
 
 ### 📌 Overview Dashboard
 
-![Power BI Overview Dashboard](pbi_page1_overview.png)
+![Power BI Overview Dashboard](assets/pbi_page1_overview.png)
 
 ### 💉 Vaccination Coverage Dashboard
 
-![Vaccination Coverage Dashboard](pbi_page2_coverage.png)
+![Vaccination Coverage Dashboard](assets/pbi_page2_coverage.png)
 
 ### 🦠 Disease Incidence & Cases Dashboard
 
-![Disease Incidence and Cases Dashboard](pbi_page3_disease.png)
+![Disease Incidence and Cases Dashboard](assets/pbi_page3_disease.png)
 
 ### 💉 Vaccine Introduction & Schedule Dashboard
 
-![Vaccine Introduction and Schedule Dashboard](pbi_page4_intro_schedule.png)
+![Vaccine Introduction and Schedule Dashboard](assets/pbi_page4_intro_schedule.png)
 
 ### 📈 Vaccination Coverage & Disease Incidence Relationship
 
-![Vaccination Coverage and Disease Incidence Relationship](pbi_page5_relationship.png)
+![Vaccination Coverage and Disease Incidence Relationship](assets/pbi_page5_relationship.png)
 
 ### 🌍 Geographical Analysis
 
-![Geographical Analysis Dashboard](pbi_page6_geographical.png)
+![Geographical Analysis Dashboard](assets/pbi_page6_geographical.png)
 
 ## 🔎 Key Findings
 
